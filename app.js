@@ -70,7 +70,7 @@ function finishGame() {
     <h1>Счет: 
       <span class="primary">${score}</span>
     </h1>
-    <a href="/" class="start">Переиграть?</a>
+    <a href="/AimTrainingGame" class="start">Переиграть?</a>
   </div>`
 }
 
